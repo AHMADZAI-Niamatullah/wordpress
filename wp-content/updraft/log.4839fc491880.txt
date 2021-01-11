@@ -1,0 +1,198 @@
+0000.000 (0) Opened log file at time: Mon, 11 Jan 2021 15:20:55 +0000 on http://localhost/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.2.33 (apache2handler, Windows NT DESKTOP-83VDQBN 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.2.33 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 59M | 8M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 27901.7 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.012 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.018 (0) Set semaphore last lock (fd) time to 2021-01-11 15:20:55
+0000.019 (0) Semaphore lock (fd) complete
+0000.025 (0) Backup run: resumption=0, nonce=4839fc491880, file_nonce=4839fc491880 begun at=1610378455 (0s ago), job type=backup
+0000.028 (0) Scheduling a resumption (1) after 300 seconds (1610378755) in case this run gets aborted
+0000.041 (0) Checking if we have a zip executable available
+0000.044 (0) Creation of backups of directories: beginning
+0000.051 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.676 (0) Total entities for the zip file: 598 directories, 3324 files (0 skipped as non-modified), 82.9 MB
+0001.744 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.796 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.844 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.895 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.964 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.995 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 3324 files batched, 552 (552) added so far); re-opening (prior size: 0 KB)
+0003.830 (0) A useful amount of data was added after this amount of zip processing: 4.3 s (normalised: 4.3 s, rate: 5929.3 KB/s)
+0003.833 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.3398489952087, normalised_time=4.3175140161237, max_time=3.830708026886, data points known=1, old_max_bytes=26214400, new_max_bytes=36429852)
+0003.867 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 600 files added (on-disk size: 9657.9 KB)
+0003.915 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 700 files added (on-disk size: 9657.9 KB)
+0003.970 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 800 files added (on-disk size: 9657.9 KB)
+0004.034 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 900 files added (on-disk size: 9657.9 KB)
+0004.090 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1000 files added (on-disk size: 9657.9 KB)
+0004.139 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1100 files added (on-disk size: 9657.9 KB)
+0004.187 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1200 files added (on-disk size: 9657.9 KB)
+0004.235 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1300 files added (on-disk size: 9657.9 KB)
+0004.292 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1400 files added (on-disk size: 9657.9 KB)
+0004.337 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1500 files added (on-disk size: 9657.9 KB)
+0004.362 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.7 MB, 3324 files batched, 1001 (1553) added so far); re-opening (prior size: 9657.9 KB)
+0006.685 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1600 files added (on-disk size: 16983.3 KB)
+0006.737 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1700 files added (on-disk size: 16983.3 KB)
+0006.782 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1800 files added (on-disk size: 16983.3 KB)
+0006.824 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 1900 files added (on-disk size: 16983.3 KB)
+0006.868 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2000 files added (on-disk size: 16983.3 KB)
+0006.917 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2100 files added (on-disk size: 16983.3 KB)
+0006.972 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2200 files added (on-disk size: 16983.3 KB)
+0007.014 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2300 files added (on-disk size: 16983.3 KB)
+0007.059 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2400 files added (on-disk size: 16983.3 KB)
+0007.109 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2500 files added (on-disk size: 16983.3 KB)
+0007.135 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (24.5 MB, 3324 files batched, 1001 (2554) added so far); re-opening (prior size: 16983.3 KB)
+0009.456 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2600 files added (on-disk size: 23780 KB)
+0009.503 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2700 files added (on-disk size: 23780 KB)
+0009.567 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2800 files added (on-disk size: 23780 KB)
+0009.619 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 2900 files added (on-disk size: 23780 KB)
+0009.671 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 3000 files added (on-disk size: 23780 KB)
+0009.723 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 3100 files added (on-disk size: 23780 KB)
+0009.780 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 3200 files added (on-disk size: 23780 KB)
+0009.822 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip.tmp: 3300 files added (on-disk size: 23780 KB)
+0010.941 (0) Created plugins zip (0) - 25336.6 KB in 10.9 s (2327.7 KB/s) (sha1: c452f9f92b374faf84ad0e20a2cfe738918edc4e, sha256: 043a2ea256825993030000cacebea711d9b7cbfa619e6260df1027436e2fa14f)
+0010.946 (0) Beginning creation of dump of themes (split every: 400 MB)
+0011.337 (0) Total entities for the zip file: 210 directories, 786 files (0 skipped as non-modified), 21.1 MB
+0011.402 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.443 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.485 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0011.525 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0011.567 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0011.608 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0011.658 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0013.067 (0) Created themes zip (0) - 12817.3 KB in 2.1 s (6055.5 KB/s) (sha1: 10e749edf1b84590b49fad68948df6f747c4907d, sha256: ba0cf6b862c930b8bb3e93e8da1302c1193e6364ab31a2e771b6b065e078ef2c)
+0013.072 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.074 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0013.077 (0) finding files: 2021: adding to list (1)
+0013.079 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0013.125 (0) Total entities for the zip file: 2 directories, 110 files (0 skipped as non-modified), 5.7 MB
+0013.168 (0) Zip: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0013.292 (0) Created uploads zip (0) - 5854.8 KB in 0.2 s (28085.2 KB/s) (sha1: 972bbe6a9e53919ce86def0735aae8db8d580f39, sha256: 9fdea1a6454d1064fb322136fbead9e99a08a44d72e084c1984429dea18a0970)
+0013.301 (0) Beginning backup of other directories found in the content directory (index: 0)
+0013.303 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0013.305 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0013.306 (0) finding files: index.php: adding to list (1)
+0013.308 (0) finding files: languages: adding to list (2)
+0013.311 (0) finding files: plugins: skipping: this is the plugins directory
+0013.313 (0) finding files: themes: skipping: this is the themes directory
+0013.315 (0) finding files: updraft: skipping: this is the updraft directory
+0013.317 (0) finding files: upgrade: skipping: excluded by options
+0013.318 (0) finding files: uploads: skipping: this is the uploads directory
+0013.353 (0) Total entities for the zip file: 3 directories, 82 files (0 skipped as non-modified), 4.3 MB
+0013.873 (0) Created others zip (0) - 1201 KB in 0.6 s (2179.2 KB/s) (sha1: 9a0f57efae14958c26b3f1fa5737f6d9756fcd56, sha256: ea04a10a95b0339cffbe72b90f0597fef793c3eabd58435c010cd46340f81c10)
+0013.883 (0) Saving backup status to database (elements: 8)
+0013.891 (0) Beginning creation of database dump (WordPress DB)
+0013.894 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0013.915 (0) Table wp_options: Total expected rows (approximate): 203
+0013.976 (0) Table wp_options: Rows added in this batch (next record: 275): 203 (uncompressed bytes in this segment=1118112) in 0.06 seconds
+0014.012 (0) Table wp_options: finishing file(s) (2, 177.8 KB)
+0014.016 (0) Table wp_users: Total expected rows (approximate): 1
+0014.035 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1381) in 0.02 seconds
+0014.046 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0014.051 (0) Table wp_usermeta: Total expected rows (approximate): 23
+0014.064 (0) Table wp_usermeta: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=2409) in 0.01 seconds
+0014.081 (0) Table wp_usermeta: finishing file(s) (2, 1.2 KB)
+0014.087 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0014.101 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.01 seconds
+0014.118 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0014.124 (0) Table wp_comments: Total expected rows (approximate): 1
+0014.149 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2187) in 0.02 seconds
+0014.173 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0014.179 (0) Table wp_links: Total expected rows (approximate): 0
+0014.196 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.02 seconds
+0014.207 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0014.211 (0) Table wp_postmeta: Total expected rows (approximate): 156
+0014.227 (0) Table wp_postmeta: Rows added in this batch (next record: 156): 156 (uncompressed bytes in this segment=56146) in 0.01 seconds
+0014.243 (0) Table wp_postmeta: finishing file(s) (2, 6.8 KB)
+0014.248 (0) Table wp_posts: Total expected rows (approximate): 106
+0014.322 (0) Table wp_posts: Rows added in this batch (next record: 119): 119 (uncompressed bytes in this segment=1914231) in 0.07 seconds
+0014.338 (0) Table wp_posts: finishing file(s) (2, 402.1 KB)
+0014.343 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0014.364 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1 (uncompressed bytes in this segment=692) in 0.02 seconds
+0014.377 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0014.381 (0) Table wp_term_taxonomy: Total expected rows (approximate): 6
+0014.401 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 8): 6 (uncompressed bytes in this segment=1063) in 0.02 seconds
+0014.412 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0014.419 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0014.436 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.02 seconds
+0014.452 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0014.457 (0) Table wp_terms: Total expected rows (approximate): 6
+0014.472 (0) Table wp_terms: Rows added in this batch (next record: 8): 6 (uncompressed bytes in this segment=912) in 0.01 seconds
+0014.483 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0014.486 (0) Table wp_frmt_form_entry: Total expected rows (approximate): 0
+0014.504 (0) Table wp_frmt_form_entry: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=773) in 0.02 seconds
+0014.519 (0) Table wp_frmt_form_entry: finishing file(s) (2, 0.4 KB)
+0014.523 (0) Table wp_frmt_form_entry_meta: Total expected rows (approximate): 0
+0014.547 (0) Table wp_frmt_form_entry_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=903) in 0.02 seconds
+0014.557 (0) Table wp_frmt_form_entry_meta: finishing file(s) (2, 0.4 KB)
+0014.562 (0) Table wp_frmt_form_views: Total expected rows (approximate): 0
+0014.578 (0) Table wp_frmt_form_views: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=941) in 0.01 seconds
+0014.588 (0) Table wp_frmt_form_views: finishing file(s) (2, 0.4 KB)
+0014.590 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_options.table.tmpr276.gz (1/15): adding to final database dump
+0014.629 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_options.table.gz (2/15): adding to final database dump
+0014.630 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_users.table.tmpr2.gz (3/15): adding to final database dump
+0014.633 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_users.table.gz (4/15): adding to final database dump
+0014.636 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_usermeta.table.tmpr24.gz (5/15): adding to final database dump
+0014.638 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_usermeta.table.gz (6/15): adding to final database dump
+0014.639 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_commentmeta.table.tmpr0.gz (7/15): adding to final database dump
+0014.641 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_commentmeta.table.gz (8/15): adding to final database dump
+0014.643 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_comments.table.tmpr2.gz (9/15): adding to final database dump
+0014.645 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_comments.table.gz (10/15): adding to final database dump
+0014.646 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_links.table.tmpr0.gz (11/15): adding to final database dump
+0014.648 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_links.table.gz (12/15): adding to final database dump
+0014.649 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_postmeta.table.tmpr157.gz (13/15): adding to final database dump
+0014.652 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_postmeta.table.gz (14/15): adding to final database dump
+0014.654 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_posts.table.tmpr120.gz (15/15): adding to final database dump
+0014.716 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_posts.table.gz (16/15): adding to final database dump
+0014.718 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_term_relationships.table.tmpr100001.gz (17/15): adding to final database dump
+0014.719 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_term_relationships.table.gz (18/15): adding to final database dump
+0014.721 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_term_taxonomy.table.tmpr9.gz (19/15): adding to final database dump
+0014.722 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_term_taxonomy.table.gz (20/15): adding to final database dump
+0014.724 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_termmeta.table.tmpr0.gz (21/15): adding to final database dump
+0014.727 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_termmeta.table.gz (22/15): adding to final database dump
+0014.730 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_terms.table.tmpr9.gz (23/15): adding to final database dump
+0014.732 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_terms.table.gz (24/15): adding to final database dump
+0014.733 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_frmt_form_entry.table.tmpr0.gz (25/15): adding to final database dump
+0014.735 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_frmt_form_entry.table.gz (26/15): adding to final database dump
+0014.736 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_frmt_form_entry_meta.table.tmpr0.gz (27/15): adding to final database dump
+0014.738 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_frmt_form_entry_meta.table.gz (28/15): adding to final database dump
+0014.740 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_frmt_form_views.table.tmpr0.gz (29/15): adding to final database dump
+0014.742 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db-table-wp_frmt_form_views.table.gz (30/15): adding to final database dump
+0014.764 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db.gz: finished writing out complete database file (584 KB)
+0014.788 (0) Total database tables backed up: 15 (backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db.gz, size: 604449, sha1: 2efc1ac910f755a6b76090d74e6b284673aaca02, sha256: 2599a6e4f1bd4b1616a2d4645791d9e78cc5da2d1effee0aeb39c5778e45cb1a)
+0014.795 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0014.797 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0014.798 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0014.800 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-others.zip: others: This file has not yet been successfully uploaded: will queue
+0014.801 (0) backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db.gz: db: This file has not yet been successfully uploaded: will queue
+0014.803 (0) Saving backup history. Total backup size: 44.7 MB
+0014.806 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0014.811 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0014.812 (0) No remote despatch: user chose no remote backup service
+0014.814 (0) Recording as successfully uploaded: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-plugins.zip
+0014.816 (0) Recording as successfully uploaded: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-themes.zip
+0014.823 (0) Recording as successfully uploaded: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-uploads.zip
+0014.829 (0) Recording as successfully uploaded: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-others.zip
+0014.832 (0) Recording as successfully uploaded: backup_2021-01-11-1620_Site_Dsiger_AHMADZAI_4839fc491880-db.gz
+0014.838 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0014.839 (0) Number of backup sets in history: 2; groups (db): 1
+0014.841 (0) Examining (for databases) backup set with group_id=0, nonce=4839fc491880, datestamp=1610378455 (Jan 11 2021 15:20:55)
+0014.843 (0) This backup set is the backup set just made, so will not be deleted.
+0014.843 (0) Examining (for databases) backup set with group_id=0, nonce=54d028d593ef, datestamp=1610378218 (Jan 11 2021 15:16:58)
+0014.843 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0014.844 (0) Number of backup sets in history: 2; groups (files): 1
+0014.846 (0) Examining (for files) backup set with nonce=4839fc491880, datestamp=1610378455 (Jan 11 2021 15:20:55)
+0014.846 (0) This backup set is the backup set just made, so will not be deleted.
+0014.847 (0) This backup set is the backup set just made, so will not be deleted.
+0014.847 (0) This backup set is the backup set just made, so will not be deleted.
+0014.847 (0) This backup set is the backup set just made, so will not be deleted.
+0014.847 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0014.848 (0) Examining (for files) backup set with nonce=54d028d593ef, datestamp=1610378218 (Jan 11 2021 15:16:58)
+0014.848 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0014.849 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0014.852 (0) Resume backup (4839fc491880, 0): finish run
+0014.855 (0) Decremented the semaphore (fd) by 1
+0014.858 (0) Semaphore (fd) unlocked
+0014.859 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0014.864 (0) The backup apparently succeeded and is now complete
+0014.865 (0) No email will/can be sent - the user has not configured an email address.
+0014.866 (0) La sauvegarde a apparemment réussi et est maintenant terminée
